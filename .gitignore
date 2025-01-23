@@ -1,0 +1,5 @@
+/.vscode/
+/.idea/
+/.venv/
+/cluster_results/
+/diamond_results/
